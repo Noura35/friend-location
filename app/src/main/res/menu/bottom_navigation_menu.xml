@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/baseline_chat_24"
+        android:title="Chat" />
+
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@drawable/baseline_person_pin_circle_24"
+        android:title="Map"
+        />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/baseline_exit_to_app_24"
+        android:title="LOGOUT"
+
+        />
+
+</menu>

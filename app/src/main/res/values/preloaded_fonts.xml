@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/alexandria_thin</item>
+        <item>@font/allerta</item>
+        <item>@font/amethysta</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/autour_one</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/faster_one</item>
+        <item>@font/finger_paint</item>
+        <item>@font/risque</item>
+    </array>
+</resources>
